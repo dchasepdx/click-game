@@ -1,0 +1,17 @@
+button {
+  position: absolute;
+  margin: 0 auto;
+  display: block;
+}
+h1 {
+  display: block;
+}
+
+ul {
+  float: right;
+  list-style-type: none;
+}
+
+.wrapper {
+  width: 940px;
+}
